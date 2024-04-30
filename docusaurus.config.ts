@@ -150,7 +150,7 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-      additionalLanguages: ['nasm', 'antlr4', 'java'],
+      additionalLanguages: ['nasm', 'antlr4', 'java', 'json'],
     },
   } satisfies Preset.ThemeConfig,
 };
