@@ -27,6 +27,15 @@ alexandru.radovici@upb.ro
 </td>
 
 <td>
+**Mihai Costin**
+![Mihai Costin](images/mihai_costin.jpg)
+ 
+Professeur de TP \
+GitHub: [mihaicostin34](https://github.com/mihaicostin34) \
+mihai.costin@stud.fils.upb.ro
+</td>
+
+<td>
 **Amalia Simion**
 ![Amalia Simion](images/amalia_simion.jpg)
 
@@ -34,40 +43,18 @@ Responsable des devoirs \
 GitHub: [CAmi307](https://github.com/CAmi307) \
 amalia.simion@stud.fils.upb.ro
 </td>
-
-<td>
-**Adrian Popescu**
-![Adrian Popescu](images/adrian_popescu.jpg)
- 
-Professeur de TP \
-GitHub: [nerodesu017](https://github.com/nerodesu017) \
-Popescu.adrian.constantin98@gmail.com
-</td>
-</tr>
-
-<tr valign="top">
-
-<td>
-**Mihai Costin**
-![Mihai Costin](images/mihai_costin.jpg)
- 
-TP & Framework auteur \
-GitHub: [mihaicostin34](https://github.com/mihaicostin34) \
-mihai.costin@stud.fils.upb.ro
-</td>
-
 </tr>
 </table>
 
 ## Horaire
 
-| Activité | Goupe | Jour | Heure | Salle |
+| Activité | Goupe | Semaine | Jour | Heure | Salle |
 |----------|-------|------|-------|-------|
-| Cours | *tous les étudiants* | Jeudi | 10 - 12 | PR002 |
-| TP | 1220A sous-groupe 2 | Mardi | 8 - 10 | EG 306 |
-| TP | 1220A sous-groupe 1 | Mardi | 10 - 12 | EG 306 |
-| TP | 1220B sous-groupe 2 | Mardi | 8 - 10 | EG 306 |
-| TP | 1220B sous-groupe 1 | Mardi | 10 - 12 | EG 306 |
+| Cours | *tous les étudiants* | chaque semaine | Jeudi | 10 - 12 | PR002 |
+| TP | 1220A sous-groupe 1 | impaire | Mardi | 12 - 14 | EG 306 |
+| TP | 1220A sous-groupe 2 | impaire| Mardi | 14 - 16 | EG 306 |
+| TP | 1220B | paire | Mardi | 12 - 14 | EG 306 |
+| TP | 1221B | paire | Mardi | 14 - 16 | EG 306 |
 
 ## Système de notation
 
@@ -81,10 +68,10 @@ mihai.costin@stud.fils.upb.ro
 
 ## Règles
 
-1. Vous pouvez vous absenter sans motivation pendant un maximum de 2 TPs.
+1. Vous pouvez vous absenter sans motivation pendant un maximum de 1 TPs.
 2. Les TPs **NE PEUVENT PAS ÊTRE RÉCUPÉRÉS**
 3. Vous pouvez motiver l’absence aux TP (motif médical) dans maximum 2 semaines de la date de votre absence 
-4. Chaque étudiant doit venir avec son groupe au TP, s'il y a des problèmes vous devez annoncer en avance.
+4. Chaque étudiant doit venir avec son groupe au TP, s'il y a des problèmes vous devez annoncer *en avance*.
 5. Vous pouvez être en retard de 10 minutes maximum au TP
 6. Les étudiants qui rattrapent la matière peuvent participer aux TPs seulement s'il y a des places libres. Afin d'obtenir des points, ils doivent résoudre des devoirs et passer l'examen final
 7. Vous aurez besoin d'un compte [github](https://www.github.com) avec votre nom complet et une vraie photo de profil.

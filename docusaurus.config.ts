@@ -38,6 +38,13 @@ const config: Config = {
       'classic',
       {
         docs: {
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: '2025',
+              // path: '1.0.0',
+            },
+          },
           path: 'docs',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
@@ -82,6 +89,10 @@ const config: Config = {
         {to: '/docs/category/cours', label: 'Cours', position: 'left'},
         {to: '/docs/category/tp', label: 'TP', position: 'left'},
         {to: '/docs/category/devoir', label: 'Devoir', position: 'left'},
+        {
+          type: 'docsVersionDropdown',
+          position: "right"
+        },
         {
           href: 'https://upb-fils-alf.github.io/framework/',
           label: 'Framework Docs',
