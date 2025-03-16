@@ -71,11 +71,10 @@ mihai.costin@stud.fils.upb.ro
 
 | Partie | Description | Points |
 |--------|-------------|--------|
-| Tests de cours | Vous passerez un test au début de chaque cours avec des questions sue le cours précédent. | 2p |
+| Tests de cours | Vous passerez un test au début de chaque cours avec des questions sue le cours précédent. | 5p |
 | Tests de TP | Vous passerez un test au début de chaque laboratoire avec des questions sur le TP précédent. | 3p |
-| Devoirs | Vous aurez 4 devoirs. | 8p |
 | Examen | L'examen au dernier cours. | 2p |
-| **Total** | *Vous avez besoin de 4,5 points pour réussir le cours.* | **15p** |
+| **Total** | *Vous avez besoin de 4,5 points pour réussir le cours.* | **10p** |
 
 ## Règles
 
