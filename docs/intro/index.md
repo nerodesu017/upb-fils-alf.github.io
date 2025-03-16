@@ -86,7 +86,7 @@ mihai.costin@stud.fils.upb.ro
 6. Les étudiants qui rattrapent la matière peuvent participer aux TPs seulement s'il y a des places libres. Afin d'obtenir des points, ils doivent résoudre des devoirs et passer l'examen final
 7. Vous aurez besoin d'un compte [github](https://www.github.com) avec votre nom complet et une vraie photo de profil.
 8. Pour 2 devoirs copiés (d'autres collègues ou des étudiants des années passées), vous allez échouer la matière
-9. Vous avez besoin d'au moins 4.5 points pour réussir l'examen
+9. Vous avez besoin d'au moins 5 points pour réussir l'examen
 
 ## Bibliographie
 

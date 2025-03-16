@@ -88,7 +88,7 @@ const config: Config = {
       items: [
         {to: '/docs/category/cours', label: 'Cours', position: 'left'},
         {to: '/docs/category/tp', label: 'TP', position: 'left'},
-        {to: '/docs/category/devoir', label: 'Devoir', position: 'left'},
+        // {to: '/docs/category/devoir', label: 'Devoir', position: 'left'},
         {
           type: 'docsVersionDropdown',
           position: "right"
@@ -119,10 +119,10 @@ const config: Config = {
               label: 'TP',
               to: '/docs/category/tp',
             },
-            {
-              label: 'Devoir',
-              to: '/docs/category/devoir',
-            },
+            // {
+            //   label: 'Devoir',
+            //   to: '/docs/category/devoir',
+            // },
             {
               label: 'Framework',
               href: 'https://upb-fils-alf.github.io/framework/',
